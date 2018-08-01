@@ -1,0 +1,7 @@
+com/teamapt/transfers/Repos/TrxsRepository.class
+com/teamapt/transfers/Entities/User.class
+com/teamapt/transfers/Entities/Trxs.class
+com/teamapt/transfers/MainController.class
+com/teamapt/transfers/Entities/TrxType.class
+com/teamapt/transfers/Repos/UserRepository.class
+com/teamapt/transfers/TransfersApplication.class
